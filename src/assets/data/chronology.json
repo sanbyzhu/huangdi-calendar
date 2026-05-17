@@ -1,0 +1,1058 @@
+[
+    {
+        "dynasty": "上古/黄帝",
+        "era": "黄帝元年",
+        "yearNum": 1,
+        "ganzhi": "甲子",
+        "gregorianYear": -2697,
+        "emperor": "轩辕氏"
+    },
+    {
+        "dynasty": "上古/尧",
+        "era": "尧元年",
+        "yearNum": 1,
+        "ganzhi": "甲辰",
+        "gregorianYear": -2357,
+        "emperor": "陶唐氏"
+    },
+    {
+        "dynasty": "上古/舜",
+        "era": "舜元年",
+        "yearNum": 1,
+        "ganzhi": "甲午",
+        "gregorianYear": -2256,
+        "emperor": "有虞氏"
+    },
+    {
+        "dynasty": "夏",
+        "era": "夏元年",
+        "yearNum": 1,
+        "ganzhi": "甲子",
+        "gregorianYear": -2070,
+        "emperor": "禹"
+    },
+    {
+        "dynasty": "商",
+        "era": "商元年",
+        "yearNum": 1,
+        "ganzhi": "甲戌",
+        "gregorianYear": -1600,
+        "emperor": "汤"
+    },
+    {
+        "dynasty": "西周",
+        "era": "武王克商",
+        "yearNum": 1,
+        "ganzhi": "甲子",
+        "gregorianYear": -1046,
+        "emperor": "姬发"
+    },
+    {
+        "dynasty": "东周",
+        "era": "平王东迁",
+        "yearNum": 1,
+        "ganzhi": "辛未",
+        "gregorianYear": -770,
+        "emperor": "姬宜臼"
+    },
+    {
+        "dynasty": "秦",
+        "era": "始皇元年",
+        "yearNum": 1,
+        "ganzhi": "庚戌",
+        "gregorianYear": -247,
+        "emperor": "嬴政"
+    },
+    {
+        "dynasty": "秦",
+        "era": "秦王政",
+        "yearNum": 26,
+        "ganzhi": "庚辰",
+        "gregorianYear": -221,
+        "emperor": "嬴政(统一)"
+    },
+    {
+        "dynasty": "西汉",
+        "era": "汉元年",
+        "yearNum": 1,
+        "ganzhi": "戊戌",
+        "gregorianYear": -202,
+        "emperor": "刘邦"
+    },
+    {
+        "dynasty": "西汉",
+        "era": "元鼎",
+        "yearNum": 1,
+        "ganzhi": "丙子",
+        "gregorianYear": -116,
+        "emperor": "刘彻"
+    },
+    {
+        "dynasty": "西汉",
+        "era": "元狩",
+        "yearNum": 4,
+        "ganzhi": "丁卯",
+        "gregorianYear": -119,
+        "emperor": "刘彻"
+    },
+    {
+        "dynasty": "西汉",
+        "era": "始元",
+        "yearNum": 1,
+        "ganzhi": "乙未",
+        "gregorianYear": -86,
+        "emperor": "刘弗陵"
+    },
+    {
+        "dynasty": "新",
+        "era": "始建国",
+        "yearNum": 1,
+        "ganzhi": "己巳",
+        "gregorianYear": 9,
+        "emperor": "王莽"
+    },
+    {
+        "dynasty": "东汉",
+        "era": "建武",
+        "yearNum": 1,
+        "ganzhi": "乙酉",
+        "gregorianYear": 25,
+        "emperor": "刘秀"
+    },
+    {
+        "dynasty": "东汉",
+        "era": "建安",
+        "yearNum": 1,
+        "ganzhi": "丙子",
+        "gregorianYear": 196,
+        "emperor": "刘协"
+    },
+    {
+        "dynasty": "三国/魏",
+        "era": "黄初",
+        "yearNum": 1,
+        "ganzhi": "庚子",
+        "gregorianYear": 220,
+        "emperor": "曹丕"
+    },
+    {
+        "dynasty": "三国/蜀",
+        "era": "章武",
+        "yearNum": 1,
+        "ganzhi": "辛丑",
+        "gregorianYear": 221,
+        "emperor": "刘备"
+    },
+    {
+        "dynasty": "三国/吴",
+        "era": "黄武",
+        "yearNum": 1,
+        "ganzhi": "壬寅",
+        "gregorianYear": 222,
+        "emperor": "孙权"
+    },
+    {
+        "dynasty": "西晋",
+        "era": "泰始",
+        "yearNum": 1,
+        "ganzhi": "乙酉",
+        "gregorianYear": 265,
+        "emperor": "司马炎"
+    },
+    {
+        "dynasty": "东晋",
+        "era": "建武",
+        "yearNum": 1,
+        "ganzhi": "丁丑",
+        "gregorianYear": 317,
+        "emperor": "司马睿"
+    },
+    {
+        "dynasty": "南北朝/宋",
+        "era": "永初",
+        "yearNum": 1,
+        "ganzhi": "庚申",
+        "gregorianYear": 420,
+        "emperor": "刘裕"
+    },
+    {
+        "dynasty": "南北朝/梁",
+        "era": "天监",
+        "yearNum": 1,
+        "ganzhi": "壬午",
+        "gregorianYear": 502,
+        "emperor": "萧衍"
+    },
+    {
+        "dynasty": "隋",
+        "era": "开皇",
+        "yearNum": 1,
+        "ganzhi": "辛丑",
+        "gregorianYear": 581,
+        "emperor": "杨坚"
+    },
+    {
+        "dynasty": "隋",
+        "era": "大业",
+        "yearNum": 1,
+        "ganzhi": "乙丑",
+        "gregorianYear": 605,
+        "emperor": "杨广"
+    },
+    {
+        "dynasty": "唐",
+        "era": "武德",
+        "yearNum": 1,
+        "ganzhi": "戊寅",
+        "gregorianYear": 618,
+        "emperor": "李渊"
+    },
+    {
+        "dynasty": "唐",
+        "era": "贞观",
+        "yearNum": 1,
+        "ganzhi": "丁亥",
+        "gregorianYear": 627,
+        "emperor": "李世民"
+    },
+    {
+        "dynasty": "唐",
+        "era": "贞观",
+        "yearNum": 23,
+        "ganzhi": "己酉",
+        "gregorianYear": 649,
+        "emperor": "李世民"
+    },
+    {
+        "dynasty": "唐",
+        "era": "永徽",
+        "yearNum": 1,
+        "ganzhi": "庚戌",
+        "gregorianYear": 650,
+        "emperor": "李治"
+    },
+    {
+        "dynasty": "武周",
+        "era": "天授",
+        "yearNum": 1,
+        "ganzhi": "庚寅",
+        "gregorianYear": 690,
+        "emperor": "武则天"
+    },
+    {
+        "dynasty": "唐",
+        "era": "神龙",
+        "yearNum": 1,
+        "ganzhi": "乙巳",
+        "gregorianYear": 705,
+        "emperor": "李显"
+    },
+    {
+        "dynasty": "唐",
+        "era": "开元",
+        "yearNum": 1,
+        "ganzhi": "癸丑",
+        "gregorianYear": 713,
+        "emperor": "李隆基"
+    },
+    {
+        "dynasty": "唐",
+        "era": "天宝",
+        "yearNum": 1,
+        "ganzhi": "壬午",
+        "gregorianYear": 742,
+        "emperor": "李隆基"
+    },
+    {
+        "dynasty": "唐",
+        "era": "至德",
+        "yearNum": 1,
+        "ganzhi": "丙申",
+        "gregorianYear": 756,
+        "emperor": "李亨"
+    },
+    {
+        "dynasty": "唐",
+        "era": "建中",
+        "yearNum": 1,
+        "ganzhi": "庚申",
+        "gregorianYear": 780,
+        "emperor": "李适"
+    },
+    {
+        "dynasty": "唐",
+        "era": "大和",
+        "yearNum": 1,
+        "ganzhi": "丁未",
+        "gregorianYear": 827,
+        "emperor": "李昂"
+    },
+    {
+        "dynasty": "唐",
+        "era": "会昌",
+        "yearNum": 1,
+        "ganzhi": "辛酉",
+        "gregorianYear": 841,
+        "emperor": "李炎"
+    },
+    {
+        "dynasty": "唐",
+        "era": "元和",
+        "yearNum": 1,
+        "ganzhi": "丙戌",
+        "gregorianYear": 806,
+        "emperor": "李纯"
+    },
+    {
+        "dynasty": "唐",
+        "era": "天复",
+        "yearNum": 1,
+        "ganzhi": "辛亥",
+        "gregorianYear": 901,
+        "emperor": "李晔"
+    },
+    {
+        "dynasty": "五代/后梁",
+        "era": "开平",
+        "yearNum": 1,
+        "ganzhi": "丁卯",
+        "gregorianYear": 907,
+        "emperor": "朱温"
+    },
+    {
+        "dynasty": "五代/后唐",
+        "era": "同光",
+        "yearNum": 1,
+        "ganzhi": "癸未",
+        "gregorianYear": 923,
+        "emperor": "李存勖"
+    },
+    {
+        "dynasty": "五代/后晋",
+        "era": "天福",
+        "yearNum": 1,
+        "ganzhi": "丙申",
+        "gregorianYear": 936,
+        "emperor": "石敬瑭"
+    },
+    {
+        "dynasty": "五代/后汉",
+        "era": "乾祐",
+        "yearNum": 1,
+        "ganzhi": "戊申",
+        "gregorianYear": 948,
+        "emperor": "刘知远"
+    },
+    {
+        "dynasty": "五代/后周",
+        "era": "广顺",
+        "yearNum": 1,
+        "ganzhi": "辛亥",
+        "gregorianYear": 951,
+        "emperor": "郭威"
+    },
+    {
+        "dynasty": "宋",
+        "era": "建隆",
+        "yearNum": 1,
+        "ganzhi": "庚申",
+        "gregorianYear": 960,
+        "emperor": "赵匡胤"
+    },
+    {
+        "dynasty": "宋",
+        "era": "开宝",
+        "yearNum": 1,
+        "ganzhi": "戊辰",
+        "gregorianYear": 968,
+        "emperor": "赵匡胤"
+    },
+    {
+        "dynasty": "宋",
+        "era": "太平兴国",
+        "yearNum": 1,
+        "ganzhi": "丙子",
+        "gregorianYear": 976,
+        "emperor": "赵光义"
+    },
+    {
+        "dynasty": "宋",
+        "era": "咸平",
+        "yearNum": 1,
+        "ganzhi": "戊戌",
+        "gregorianYear": 998,
+        "emperor": "赵恒"
+    },
+    {
+        "dynasty": "宋",
+        "era": "天圣",
+        "yearNum": 1,
+        "ganzhi": "癸亥",
+        "gregorianYear": 1023,
+        "emperor": "赵祯"
+    },
+    {
+        "dynasty": "宋",
+        "era": "嘉祐",
+        "yearNum": 1,
+        "ganzhi": "丙申",
+        "gregorianYear": 1056,
+        "emperor": "赵祯"
+    },
+    {
+        "dynasty": "宋",
+        "era": "熙宁",
+        "yearNum": 1,
+        "ganzhi": "戊申",
+        "gregorianYear": 1068,
+        "emperor": "赵顼"
+    },
+    {
+        "dynasty": "宋",
+        "era": "元丰",
+        "yearNum": 1,
+        "ganzhi": "戊午",
+        "gregorianYear": 1078,
+        "emperor": "赵顼"
+    },
+    {
+        "dynasty": "宋",
+        "era": "元祐",
+        "yearNum": 1,
+        "ganzhi": "丙寅",
+        "gregorianYear": 1086,
+        "emperor": "赵煦"
+    },
+    {
+        "dynasty": "宋",
+        "era": "崇宁",
+        "yearNum": 1,
+        "ganzhi": "壬午",
+        "gregorianYear": 1102,
+        "emperor": "赵佶"
+    },
+    {
+        "dynasty": "宋",
+        "era": "大观",
+        "yearNum": 1,
+        "ganzhi": "丁亥",
+        "gregorianYear": 1107,
+        "emperor": "赵佶"
+    },
+    {
+        "dynasty": "宋",
+        "era": "政和",
+        "yearNum": 1,
+        "ganzhi": "辛卯",
+        "gregorianYear": 1111,
+        "emperor": "赵佶"
+    },
+    {
+        "dynasty": "宋",
+        "era": "靖康",
+        "yearNum": 1,
+        "ganzhi": "丙午",
+        "gregorianYear": 1126,
+        "emperor": "赵桓"
+    },
+    {
+        "dynasty": "南宋",
+        "era": "建炎",
+        "yearNum": 1,
+        "ganzhi": "丁未",
+        "gregorianYear": 1127,
+        "emperor": "赵构"
+    },
+    {
+        "dynasty": "南宋",
+        "era": "绍兴",
+        "yearNum": 1,
+        "ganzhi": "辛亥",
+        "gregorianYear": 1131,
+        "emperor": "赵构"
+    },
+    {
+        "dynasty": "南宋",
+        "era": "隆兴",
+        "yearNum": 1,
+        "ganzhi": "癸未",
+        "gregorianYear": 1163,
+        "emperor": "赵昚"
+    },
+    {
+        "dynasty": "南宋",
+        "era": "淳熙",
+        "yearNum": 1,
+        "ganzhi": "甲午",
+        "gregorianYear": 1174,
+        "emperor": "赵昚"
+    },
+    {
+        "dynasty": "南宋",
+        "era": "嘉泰",
+        "yearNum": 1,
+        "ganzhi": "辛酉",
+        "gregorianYear": 1201,
+        "emperor": "赵扩"
+    },
+    {
+        "dynasty": "南宋",
+        "era": "嘉定",
+        "yearNum": 1,
+        "ganzhi": "戊辰",
+        "gregorianYear": 1208,
+        "emperor": "赵扩"
+    },
+    {
+        "dynasty": "南宋",
+        "era": "端平",
+        "yearNum": 1,
+        "ganzhi": "甲午",
+        "gregorianYear": 1234,
+        "emperor": "赵昀"
+    },
+    {
+        "dynasty": "南宋",
+        "era": "咸淳",
+        "yearNum": 1,
+        "ganzhi": "乙丑",
+        "gregorianYear": 1265,
+        "emperor": "赵禥"
+    },
+    {
+        "dynasty": "南宋",
+        "era": "祥兴",
+        "yearNum": 1,
+        "ganzhi": "戊寅",
+        "gregorianYear": 1278,
+        "emperor": "赵昺"
+    },
+    {
+        "dynasty": "辽",
+        "era": "神册",
+        "yearNum": 1,
+        "ganzhi": "丙子",
+        "gregorianYear": 916,
+        "emperor": "耶律阿保机"
+    },
+    {
+        "dynasty": "西夏",
+        "era": "天授礼法延祚",
+        "yearNum": 1,
+        "ganzhi": "壬午",
+        "gregorianYear": 1038,
+        "emperor": "李元昊"
+    },
+    {
+        "dynasty": "金",
+        "era": "收国",
+        "yearNum": 1,
+        "ganzhi": "乙未",
+        "gregorianYear": 1115,
+        "emperor": "完颜阿骨打"
+    },
+    {
+        "dynasty": "金",
+        "era": "大定",
+        "yearNum": 1,
+        "ganzhi": "辛巳",
+        "gregorianYear": 1161,
+        "emperor": "完颜雍"
+    },
+    {
+        "dynasty": "元",
+        "era": "中统",
+        "yearNum": 1,
+        "ganzhi": "庚申",
+        "gregorianYear": 1260,
+        "emperor": "忽必烈"
+    },
+    {
+        "dynasty": "元",
+        "era": "至元",
+        "yearNum": 1,
+        "ganzhi": "甲子",
+        "gregorianYear": 1264,
+        "emperor": "忽必烈"
+    },
+    {
+        "dynasty": "元",
+        "era": "元贞",
+        "yearNum": 1,
+        "ganzhi": "乙未",
+        "gregorianYear": 1295,
+        "emperor": "铁穆耳"
+    },
+    {
+        "dynasty": "元",
+        "era": "至大",
+        "yearNum": 1,
+        "ganzhi": "戊申",
+        "gregorianYear": 1308,
+        "emperor": "海山"
+    },
+    {
+        "dynasty": "元",
+        "era": "皇庆",
+        "yearNum": 1,
+        "ganzhi": "壬子",
+        "gregorianYear": 1312,
+        "emperor": "爱育黎拔力八达"
+    },
+    {
+        "dynasty": "元",
+        "era": "至治",
+        "yearNum": 1,
+        "ganzhi": "辛酉",
+        "gregorianYear": 1321,
+        "emperor": "硕德八剌"
+    },
+    {
+        "dynasty": "元",
+        "era": "泰定",
+        "yearNum": 1,
+        "ganzhi": "甲子",
+        "gregorianYear": 1324,
+        "emperor": "也孙铁木儿"
+    },
+    {
+        "dynasty": "元",
+        "era": "至顺",
+        "yearNum": 1,
+        "ganzhi": "庚午",
+        "gregorianYear": 1330,
+        "emperor": "图帖睦尔"
+    },
+    {
+        "dynasty": "元",
+        "era": "至正",
+        "yearNum": 1,
+        "ganzhi": "辛巳",
+        "gregorianYear": 1341,
+        "emperor": "妥懽帖睦尔"
+    },
+    {
+        "dynasty": "明",
+        "era": "洪武",
+        "yearNum": 1,
+        "ganzhi": "戊申",
+        "gregorianYear": 1368,
+        "emperor": "朱元璋"
+    },
+    {
+        "dynasty": "明",
+        "era": "洪武",
+        "yearNum": 31,
+        "ganzhi": "戊寅",
+        "gregorianYear": 1398,
+        "emperor": "朱元璋"
+    },
+    {
+        "dynasty": "明",
+        "era": "建文",
+        "yearNum": 1,
+        "ganzhi": "己卯",
+        "gregorianYear": 1399,
+        "emperor": "朱允炆"
+    },
+    {
+        "dynasty": "明",
+        "era": "永乐",
+        "yearNum": 1,
+        "ganzhi": "癸未",
+        "gregorianYear": 1403,
+        "emperor": "朱棣"
+    },
+    {
+        "dynasty": "明",
+        "era": "洪熙",
+        "yearNum": 1,
+        "ganzhi": "乙巳",
+        "gregorianYear": 1425,
+        "emperor": "朱高炽"
+    },
+    {
+        "dynasty": "明",
+        "era": "宣德",
+        "yearNum": 1,
+        "ganzhi": "丙午",
+        "gregorianYear": 1426,
+        "emperor": "朱瞻基"
+    },
+    {
+        "dynasty": "明",
+        "era": "正统",
+        "yearNum": 1,
+        "ganzhi": "丙辰",
+        "gregorianYear": 1436,
+        "emperor": "朱祁镇"
+    },
+    {
+        "dynasty": "明",
+        "era": "景泰",
+        "yearNum": 1,
+        "ganzhi": "庚午",
+        "gregorianYear": 1450,
+        "emperor": "朱祁钰"
+    },
+    {
+        "dynasty": "明",
+        "era": "成化",
+        "yearNum": 1,
+        "ganzhi": "乙酉",
+        "gregorianYear": 1465,
+        "emperor": "朱见深"
+    },
+    {
+        "dynasty": "明",
+        "era": "弘治",
+        "yearNum": 1,
+        "ganzhi": "戊申",
+        "gregorianYear": 1488,
+        "emperor": "朱佑樘"
+    },
+    {
+        "dynasty": "明",
+        "era": "正德",
+        "yearNum": 1,
+        "ganzhi": "丙寅",
+        "gregorianYear": 1506,
+        "emperor": "朱厚照"
+    },
+    {
+        "dynasty": "明",
+        "era": "嘉靖",
+        "yearNum": 1,
+        "ganzhi": "壬午",
+        "gregorianYear": 1522,
+        "emperor": "朱厚熜"
+    },
+    {
+        "dynasty": "明",
+        "era": "隆庆",
+        "yearNum": 1,
+        "ganzhi": "丁卯",
+        "gregorianYear": 1567,
+        "emperor": "朱载垕"
+    },
+    {
+        "dynasty": "明",
+        "era": "万历",
+        "yearNum": 1,
+        "ganzhi": "癸酉",
+        "gregorianYear": 1573,
+        "emperor": "朱翊钧"
+    },
+    {
+        "dynasty": "明",
+        "era": "泰昌",
+        "yearNum": 1,
+        "ganzhi": "庚申",
+        "gregorianYear": 1620,
+        "emperor": "朱常洛"
+    },
+    {
+        "dynasty": "明",
+        "era": "天启",
+        "yearNum": 1,
+        "ganzhi": "辛酉",
+        "gregorianYear": 1621,
+        "emperor": "朱由校"
+    },
+    {
+        "dynasty": "明",
+        "era": "崇祯",
+        "yearNum": 1,
+        "ganzhi": "戊辰",
+        "gregorianYear": 1628,
+        "emperor": "朱由检"
+    },
+    {
+        "dynasty": "明",
+        "era": "崇祯",
+        "yearNum": 17,
+        "ganzhi": "甲申",
+        "gregorianYear": 1644,
+        "emperor": "朱由检(亡)"
+    },
+    {
+        "dynasty": "清",
+        "era": "天命",
+        "yearNum": 1,
+        "ganzhi": "丙辰",
+        "gregorianYear": 1616,
+        "emperor": "努尔哈赤"
+    },
+    {
+        "dynasty": "清",
+        "era": "天聪",
+        "yearNum": 1,
+        "ganzhi": "丁卯",
+        "gregorianYear": 1627,
+        "emperor": "皇太极"
+    },
+    {
+        "dynasty": "清",
+        "era": "崇德",
+        "yearNum": 1,
+        "ganzhi": "丙子",
+        "gregorianYear": 1636,
+        "emperor": "皇太极"
+    },
+    {
+        "dynasty": "清",
+        "era": "顺治",
+        "yearNum": 1,
+        "ganzhi": "甲申",
+        "gregorianYear": 1644,
+        "emperor": "福临"
+    },
+    {
+        "dynasty": "清",
+        "era": "顺治",
+        "yearNum": 18,
+        "ganzhi": "辛丑",
+        "gregorianYear": 1661,
+        "emperor": "福临"
+    },
+    {
+        "dynasty": "清",
+        "era": "康熙",
+        "yearNum": 1,
+        "ganzhi": "壬寅",
+        "gregorianYear": 1662,
+        "emperor": "玄烨"
+    },
+    {
+        "dynasty": "清",
+        "era": "康熙",
+        "yearNum": 61,
+        "ganzhi": "壬寅",
+        "gregorianYear": 1722,
+        "emperor": "玄烨"
+    },
+    {
+        "dynasty": "清",
+        "era": "雍正",
+        "yearNum": 1,
+        "ganzhi": "癸卯",
+        "gregorianYear": 1723,
+        "emperor": "胤禛"
+    },
+    {
+        "dynasty": "清",
+        "era": "雍正",
+        "yearNum": 13,
+        "ganzhi": "乙卯",
+        "gregorianYear": 1735,
+        "emperor": "胤禛"
+    },
+    {
+        "dynasty": "清",
+        "era": "乾隆",
+        "yearNum": 1,
+        "ganzhi": "丙辰",
+        "gregorianYear": 1736,
+        "emperor": "弘历"
+    },
+    {
+        "dynasty": "清",
+        "era": "乾隆",
+        "yearNum": 60,
+        "ganzhi": "乙卯",
+        "gregorianYear": 1795,
+        "emperor": "弘历"
+    },
+    {
+        "dynasty": "清",
+        "era": "嘉庆",
+        "yearNum": 1,
+        "ganzhi": "丙辰",
+        "gregorianYear": 1796,
+        "emperor": "颙琰"
+    },
+    {
+        "dynasty": "清",
+        "era": "嘉庆",
+        "yearNum": 25,
+        "ganzhi": "庚辰",
+        "gregorianYear": 1820,
+        "emperor": "颙琰"
+    },
+    {
+        "dynasty": "清",
+        "era": "道光",
+        "yearNum": 1,
+        "ganzhi": "辛巳",
+        "gregorianYear": 1821,
+        "emperor": "旻宁"
+    },
+    {
+        "dynasty": "清",
+        "era": "道光",
+        "yearNum": 30,
+        "ganzhi": "庚戌",
+        "gregorianYear": 1850,
+        "emperor": "旻宁"
+    },
+    {
+        "dynasty": "清",
+        "era": "咸丰",
+        "yearNum": 1,
+        "ganzhi": "辛亥",
+        "gregorianYear": 1851,
+        "emperor": "奕詝"
+    },
+    {
+        "dynasty": "清",
+        "era": "咸丰",
+        "yearNum": 11,
+        "ganzhi": "辛酉",
+        "gregorianYear": 1861,
+        "emperor": "奕詝"
+    },
+    {
+        "dynasty": "清",
+        "era": "同治",
+        "yearNum": 1,
+        "ganzhi": "壬戌",
+        "gregorianYear": 1862,
+        "emperor": "载淳"
+    },
+    {
+        "dynasty": "清",
+        "era": "同治",
+        "yearNum": 13,
+        "ganzhi": "甲戌",
+        "gregorianYear": 1874,
+        "emperor": "载淳"
+    },
+    {
+        "dynasty": "清",
+        "era": "光绪",
+        "yearNum": 1,
+        "ganzhi": "乙亥",
+        "gregorianYear": 1875,
+        "emperor": "载湉"
+    },
+    {
+        "dynasty": "清",
+        "era": "光绪",
+        "yearNum": 20,
+        "ganzhi": "甲午",
+        "gregorianYear": 1894,
+        "emperor": "载湉(甲午战争)"
+    },
+    {
+        "dynasty": "清",
+        "era": "光绪",
+        "yearNum": 26,
+        "ganzhi": "庚子",
+        "gregorianYear": 1900,
+        "emperor": "载湉(庚子事变)"
+    },
+    {
+        "dynasty": "清",
+        "era": "光绪",
+        "yearNum": 32,
+        "ganzhi": "丙午",
+        "gregorianYear": 1906,
+        "emperor": "载湉"
+    },
+    {
+        "dynasty": "清",
+        "era": "光绪",
+        "yearNum": 34,
+        "ganzhi": "戊申",
+        "gregorianYear": 1908,
+        "emperor": "载湉"
+    },
+    {
+        "dynasty": "清",
+        "era": "宣统",
+        "yearNum": 1,
+        "ganzhi": "己酉",
+        "gregorianYear": 1909,
+        "emperor": "溥仪"
+    },
+    {
+        "dynasty": "清",
+        "era": "宣统",
+        "yearNum": 3,
+        "ganzhi": "辛亥",
+        "gregorianYear": 1911,
+        "emperor": "溥仪(辛亥革命)"
+    },
+    {
+        "dynasty": "民国",
+        "era": "民国",
+        "yearNum": 1,
+        "ganzhi": "壬子",
+        "gregorianYear": 1912,
+        "emperor": "中华民国建立"
+    },
+    {
+        "dynasty": "民国",
+        "era": "民国",
+        "yearNum": 13,
+        "ganzhi": "甲子",
+        "gregorianYear": 1924,
+        "emperor": "第一次国共合作"
+    },
+    {
+        "dynasty": "民国",
+        "era": "民国",
+        "yearNum": 14,
+        "ganzhi": "乙丑",
+        "gregorianYear": 1925,
+        "emperor": "孙中山逝世"
+    },
+    {
+        "dynasty": "民国",
+        "era": "民国",
+        "yearNum": 17,
+        "ganzhi": "戊辰",
+        "gregorianYear": 1928,
+        "emperor": "北伐完成"
+    },
+    {
+        "dynasty": "民国",
+        "era": "民国",
+        "yearNum": 26,
+        "ganzhi": "丁丑",
+        "gregorianYear": 1937,
+        "emperor": "抗战开始"
+    },
+    {
+        "dynasty": "民国",
+        "era": "民国",
+        "yearNum": 34,
+        "ganzhi": "乙酉",
+        "gregorianYear": 1945,
+        "emperor": "抗战胜利"
+    },
+    {
+        "dynasty": "民国",
+        "era": "民国",
+        "yearNum": 38,
+        "ganzhi": "己丑",
+        "gregorianYear": 1949,
+        "emperor": "中华人民共和国成立"
+    },
+    {
+        "dynasty": "民国",
+        "era": "民国",
+        "yearNum": 64,
+        "ganzhi": "乙卯",
+        "gregorianYear": 1975,
+        "emperor": "(截图对照年份)"
+    },
+    {
+        "dynasty": "公元",
+        "era": "公元",
+        "yearNum": 1,
+        "ganzhi": "辛酉",
+        "gregorianYear": 1,
+        "emperor": "西元纪年起点"
+    }
+]
