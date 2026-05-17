@@ -4,6 +4,33 @@
 
 > 项目仍在持续打磨中，历法模型和文化资料会随着校对与反馈继续迭代。
 
+## 下载体验
+
+最新测试包已发布到 [GitHub Releases](https://github.com/sanbyzhu/huangdi-calendar/releases/tag/v0.10.07-downloads)。
+
+- Android：优先下载 `huangdi-calendar-0.10.7-arm64-v8a-debug.apk`，旧设备可尝试 `armeabi-v7a` 版本。
+- Windows：优先下载 `huangdi-calendar-0.10.7-win-setup.exe`，也可以下载 zip 解压体验。
+
+> Android APK 当前为 debug 构建，主要用于开源测试与体验反馈。
+
+## 界面预览
+
+### 历法总览
+
+![历法总览](docs/screenshots/calendar-overview.png)
+
+### 圣太一天历
+
+![圣太一天历](docs/screenshots/tian-calendar.png)
+
+### 玛雅历法
+
+![玛雅历法](docs/screenshots/mayan-calendar.png)
+
+### 系统说明
+
+![系统说明](docs/screenshots/about-page.png)
+
 ## 核心功能
 
 - 多历法同屏：公历、农历、黄帝纪元历、圣太一天历、玛雅历法。
@@ -75,8 +102,7 @@ huangdi-calendar/
 - `USER_MANUAL.md`：应用使用说明
 - `DEVELOPER_GUIDE.md`：开发与打包说明
 - `古历法介绍.md`：项目愿景与功能介绍
-- `古历法开发说明.md`：技术结构说明
-- `古历法更新说明.md`：版本更新记录
+- `古历法使用说明.md`：中文使用说明
 
 ## 开源说明
 

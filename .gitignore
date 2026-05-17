@@ -16,6 +16,7 @@ build
 public_backup
 coverage
 .omx
+output
 .cache
 *.local
 .env
